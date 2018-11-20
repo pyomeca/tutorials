@@ -1,0 +1,10 @@
+repo_name: 'tutorials'
+repo_info: >
+  <img style="float: right; width: 100px" src="https://raw.github.com/pyomeca/design/master/logo/logo_cropped.svg?sanitize=true">
+
+
+  # Effective computation in Biomechanics
+
+  ## with [pyomeca](https://github.com/pyomeca/pyomeca)
+
+  Romain Martinez (martinez.staps@gmail.com | [GitHub](https://github.com/romainmartinez))

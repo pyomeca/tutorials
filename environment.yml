@@ -1,0 +1,13 @@
+name: tutorials
+channels:
+- default
+- pyomeca
+dependencies:
+- python
+- pyyaml
+- numpy
+- ezc3d>=0.3.2
+- pyomeca
+- seaborn
+- pip:
+  - spm1d
