@@ -7,7 +7,6 @@ This repository contains some tutorials on the [pyomeca](https://github.com/pyom
 ## How to Use this repo
 - By running the code using the Jupyter notebooks available in this repository's notebooks directory.
 - By launching executable versions of these notebooks using binder: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pyomeca/tutorials/master?filepath=notebooks%2FIndex.ipynb)
-- By launching executable versions of these notebooks using Google Colab: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pyomeca/tutorials/blob/master/notebooks/Index.ipynb)
 - By reading the online (non-executable) version of the notebooks using nbviewer: [![Nbviewer](https://raw.github.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg?sanitize=true)](https://nbviewer.jupyter.org/github/pyomeca/tutorials/blob/master/notebooks/Index.ipynb)
 
 ## About
