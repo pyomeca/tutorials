@@ -1,12 +1,11 @@
 name: tutorials
 channels:
-- default
-- pyomeca
+- conda-forge
 dependencies:
 - python
 - pyyaml
 - numpy
-- ezc3d>=0.3.2
+- ezc3d
 - pyomeca
 - seaborn
 - pip:
