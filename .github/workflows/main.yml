@@ -29,6 +29,5 @@ jobs:
           python-version: ${{ matrix.python-version }}
           conda-channels: conda-forge
       - run: conda info -a
-      - run: conda env update -f environment.yml -q -n base
-      - run: conda install jupyterlab -c conda-forge
+      - run: conda env update -f environment_dev.yml -q -n base
       - run: make all
