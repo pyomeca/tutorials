@@ -30,4 +30,5 @@ jobs:
           conda-channels: conda-forge
       - run: conda info -a
       - run: conda env update -f environment.yml -q -n base
+      - run: conda install jupyterlab -c conda-forge
       - run: make all
