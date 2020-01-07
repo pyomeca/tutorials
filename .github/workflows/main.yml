@@ -16,8 +16,8 @@ jobs:
     runs-on: ${{ matrix.os }}
     strategy:
       matrix:
-        os: [ubuntu-latest]
-        python-version: [3.8]
+        os: [ubuntu-latest, macos-latest, windows-latest]
+        python-version: [3.7, 3.8]
     name: ${{ matrix.os }} - Python ${{ matrix.python-version }}
     steps:
       - uses: actions/checkout@master
@@ -29,6 +29,5 @@ jobs:
           python-version: ${{ matrix.python-version }}
           conda-channels: conda-forge
       - run: conda info -a
-      - run: conda env update -f environment.yml -q -n base
-      - run: conda install jupyterlab -c conda-forge
+      - run: conda env update -f environment_dev.yml -q -n base
       - run: make all
