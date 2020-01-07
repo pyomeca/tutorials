@@ -1,0 +1,33 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+  schedule:
+    # every sunday at 14:00 UTC
+    - cron:  '0 14 * * SUN'
+
+jobs:
+  build:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [ubuntu-latest]
+        python-version: [3.8]
+    name: ${{ matrix.os }} - Python ${{ matrix.python-version }}
+    steps:
+      - uses: actions/checkout@master
+      - name: Setup conda
+        uses: s-weigand/setup-conda@master
+        with:
+          activate-conda: true
+          update-conda: true
+          python-version: ${{ matrix.python-version }}
+          conda-channels: conda-forge
+      - run: conda info -a
+      - run: conda env update -f environment.yml -q -n base
+      - run: make all
