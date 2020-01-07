@@ -3,12 +3,6 @@
   alt="logo"
 />
 
-# TODOS
-- redirect link in readme
-- tips:
-  - test your code
-  - use pandas and tidy data
-
 # Pyomeca tutorials
 This repository contains some tutorials on the [pyomeca](https://github.com/pyomeca/pyomeca) python library and some tips to make effective computations in Biomechanics.
 
