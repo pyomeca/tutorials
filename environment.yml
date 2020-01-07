@@ -1,12 +1,14 @@
 name: tutorials
 channels:
-- conda-forge
+  - conda-forge
 dependencies:
-- python
-- pyyaml
-- numpy
-- ezc3d
-- pyomeca
-- seaborn
-- pip:
-  - spm1d
+  - python=3.8
+  - numpy
+  - pandas
+  - altair
+  - pyomeca
+  - seaborn
+  - pip
+  - pip:
+      - nb-black
+      - black

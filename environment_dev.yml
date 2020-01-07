@@ -1,0 +1,17 @@
+name: tutorials
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - altair
+  - pyomeca
+  - seaborn
+  - pip
+  - pip:
+      - nb-black
+      - black
+  # dev
+  - nb_conda_kernels
+  - pyyaml

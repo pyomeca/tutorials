@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="249.44339mm"
+   height="193.3mm"
+   viewBox="0 0 249.44339 193.3"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (f8dce91, 2019-08-02)"
+   sodipodi:docname="spaghetti.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="586.0072"
+     inkscape:cy="128.86139"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(210.99169,100.32985)">
+    <g
+       id="g897"
+       transform="translate(-28.531156,0.40598915)" />
+    <g
+       transform="translate(-73.206518,-293.47876)"
+       id="g1486">
+      <rect
+         y="198.76506"
+         x="-132.16902"
+         height="182.0677"
+         width="238.21109"
+         id="rect1267-1-2-6-9"
+         style="fill:#ffebee;fill-opacity:1;stroke:#fffff6;stroke-width:1.23230159;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         transform="translate(-127.47234,133.48618)"
+         id="g903-4-0">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';letter-spacing:0px;word-spacing:0px;fill:#546e7a;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="-0.56091666"
+           y="80.419647"
+           id="text821-15-7"><tspan
+             sodipodi:role="line"
+             id="tspan819-08-6"
+             x="-0.56091666"
+             y="80.419647"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#78909c;fill-opacity:1;stroke-width:0.26458332">main.py</tspan><tspan
+             id="tspan1135-3"
+             sodipodi:role="line"
+             x="-0.56091666"
+             y="93.648811"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#546e7a;fill-opacity:1;stroke-width:0.26458332" /><tspan
+             id="tspan1020-9-0"
+             sodipodi:role="line"
+             x="-0.56091666"
+             y="106.87798"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#546e7a;fill-opacity:1;stroke-width:0.26458332"># reading file</tspan><tspan
+             id="tspan1230"
+             sodipodi:role="line"
+             x="-0.56091666"
+             y="120.10715"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#546e7a;fill-opacity:1;stroke-width:0.26458332">[...]</tspan><tspan
+             id="tspan1232"
+             sodipodi:role="line"
+             x="-0.56091666"
+             y="133.33632"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#546e7a;fill-opacity:1;stroke-width:0.26458332" /><tspan
+             id="tspan1234"
+             sodipodi:role="line"
+             x="-0.56091666"
+             y="146.56548"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#546e7a;fill-opacity:1;stroke-width:0.26458332"># processing</tspan><tspan
+             id="tspan1236"
+             sodipodi:role="line"
+             x="-0.56091666"
+             y="159.79465"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#546e7a;fill-opacity:1;stroke-width:0.26458332">[...]</tspan><tspan
+             id="tspan1238"
+             sodipodi:role="line"
+             x="-0.56091666"
+             y="173.0238"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#546e7a;fill-opacity:1;stroke-width:0.26458332" /><tspan
+             id="tspan1240"
+             sodipodi:role="line"
+             x="-0.56091666"
+             y="186.25298"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#546e7a;fill-opacity:1;stroke-width:0.26458332"># statistics</tspan><tspan
+             id="tspan1242"
+             sodipodi:role="line"
+             x="-0.56091666"
+             y="199.48215"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#546e7a;fill-opacity:1;stroke-width:0.26458332">[...]</tspan><tspan
+             id="tspan1244"
+             sodipodi:role="line"
+             x="-0.56091666"
+             y="212.7113"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#546e7a;fill-opacity:1;stroke-width:0.26458332" /><tspan
+             id="tspan1246"
+             sodipodi:role="line"
+             x="-0.56091666"
+             y="225.94048"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#546e7a;fill-opacity:1;stroke-width:0.26458332"># writing file</tspan><tspan
+             id="tspan1248"
+             sodipodi:role="line"
+             x="-0.56091666"
+             y="239.16965"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#546e7a;fill-opacity:1;stroke-width:0.26458332">[...]</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
