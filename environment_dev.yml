@@ -12,6 +12,7 @@ dependencies:
   - pip:
       - nb-black
       - black
+      - spm1d
   # dev
   - nb_conda_kernels
   - pyyaml
