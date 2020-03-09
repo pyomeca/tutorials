@@ -12,3 +12,4 @@ dependencies:
   - pip:
       - nb-black
       - black
+      - spm1d
