@@ -3,7 +3,7 @@
   alt="logo"
 />
 
-![](https://github.com/pyomeca/tutorials/workflows/CI/badge.svg)
+[![](https://github.com/pyomeca/tutorials/workflows/CI/badge.svg)](https://github.com/pyomeca/tutorials/actions)
 
 # Pyomeca tutorials
 This repository contains some tutorials on the [pyomeca](https://github.com/pyomeca/pyomeca) python library and some tips to make effective computations in Biomechanics.
